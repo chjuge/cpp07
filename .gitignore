@@ -1,0 +1,4 @@
+*.o
+whatever
+.vscode
+iter
